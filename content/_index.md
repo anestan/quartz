@@ -1,9 +1,9 @@
 ---
-title: 🪴 Quartzzz 3.
+title: 🪴 Blog.
 enableToc: false
 ---
 
-Host your second brainsss and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Host your second brainss and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
