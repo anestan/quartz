@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Quartzzz 3.
 enableToc: false
 ---
 
@@ -24,4 +24,3 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
